@@ -1,0 +1,3 @@
+- This project uses pure CSS and uses float to design and place element in column structure.
+- Forms are powered by formspree
+- Hosted live using netlify on link 
